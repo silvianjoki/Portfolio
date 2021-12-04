@@ -10,6 +10,11 @@ body {
     color: black;
     line-height: 1.6;
 }
-.header {
-    background-image: url(/images/miraclegarden.jpeg);
-}
+.container {
+    color: black;
+    width: 0px;
+    margin: auto;
+} 
+
+
+
