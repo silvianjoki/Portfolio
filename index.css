@@ -30,25 +30,19 @@ h2 {
 }
 /* end of format */
 
+/* body section */
+body{
+    background-color: lavenderblush;
+    opacity: initial;
+    mix-blend-mode: multiply;
+    
+}
 /* projects section */
 .projects h2{
     position:relative
     
 
-body{
-    background-color: lavender;
-    
-}
 
-.interests{
-    display: grid;
-    grid-template-columns: auto;
-    padding: 0 20px;
-}
-p{
-    color: black;
-    padding: auto;
-}
 
 h3{
     font-size: 17px;
@@ -56,6 +50,6 @@ h3{
     float: inline-start;
 }
 
-.interests{
+.interests .interests{
     font-size: 17px;
 }
