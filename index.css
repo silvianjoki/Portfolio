@@ -1,11 +1,12 @@
 /* formatting the header */
 .heading{
-    background-image: url(/images/background\ cloud.jpg);
+    background-image: url(/images/nature\ background.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-position: fixed; 
+    background-position: fixed;
     background-size: auto;
-    margin: 20px;
+    background-blend-mode: overlay;
+    margin: 25px;
     height: 320px;
     text-align: center;
     font-size: xxx-large;
