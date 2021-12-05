@@ -6,10 +6,11 @@
     background-position: fixed;
     background-size: auto;
     background-blend-mode: overlay;
-    margin: 25px;
+    margin: 30px;
     height: 320px;
     text-align: center;
     font-size: xxx-large;
+    
 }
 /* end of formatting */
 
@@ -30,9 +31,9 @@ h2 {
 /* end of format */
 
 /* projects section */
-.projects {
+.projects h2{
     position:relative
-}
+    
 
 body{
     background-color: lavender;
@@ -47,7 +48,6 @@ body{
 p{
     color: black;
     padding: auto;
-    
 }
 
 h3{
@@ -56,3 +56,6 @@ h3{
     float: inline-start;
 }
 
+.interests{
+    font-size: 17px;
+}
