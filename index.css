@@ -29,14 +29,24 @@ h2 {
 
 /* projects section */
 .projects {
+    position:relative
 }
 
 body{
     background-color: lavender;
+    
 }
 
 .interests{
     display: grid;
     grid-template-columns: auto;
     padding: 0 20px;
+}
+p{
+    color: black;
+}
+
+h3{
+    font-size: 17px;
+    color: rgba(24, 23, 48, 0.349);
 }
