@@ -9,10 +9,18 @@
     margin: 30px;
     height: 320px;
     text-align: center;
-    font-size: xxx-large;
-    
+    border-radius: 70;    
 }
 /* end of formatting */
+.heading .h1
+font-size: xxxx-large;
+text-align: center;
+
+.heading .h4
+font-size:xxx-large
+text-align: center;
+
+
 
 /* formatting header elements */
 h1,h4{
@@ -46,16 +54,19 @@ body{
 
 h3{
     font-size: 17px;
-    color: rgba(0, 0, 0, 0.349);
+    color: rgb(31, 22, 22);
     float: inline-start;
+    font-style: bold;
 }
 
-.interests .interests{
+.interests{
     font-size: 17px;
 }
 
-.media icons {
-    position: relative;
-    font-size: 25px
-    
+.media .fa{
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    width: 50px;
+    margin-right: 60px
 }
