@@ -1,6 +1,5 @@
 # Portfolio
 This project showcases my previous projects as a software developer as well as my interest areas.
-####by Silvia Njoki
 
 ## Description
 This landing page shares my profile as a software developer. It covers who I am, projects I am working on at the moment, areas of interest, and explores my background in education. 
